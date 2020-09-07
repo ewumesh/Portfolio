@@ -7,7 +7,7 @@ function scrollFunction() {
 	document.getElementById("logo").style.width = "40px";
 	document.getElementById("logo").style.height = "40px";
 
-	if (document.body.scrollTop > 1110 || document.documentElement.scrollTop > 1110) {
+	if (document.body.scrollTop > 900 || document.documentElement.scrollTop > 900) {
 		document.getElementById("navs").style.backgroundColor = "rgba(59, 59, 59, 0.5)";
 	} else {
 		document.getElementById("navs").style.backgroundColor = "";
