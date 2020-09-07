@@ -147,7 +147,7 @@ header nav ul.navigation li a:hover:after {
 /* Sections */
 
 .my-section {
-	padding: 85px 0;
+	padding: 50px 0;
 }
 
 /* About us */
@@ -589,4 +589,22 @@ footer .social-profile li a:hover {
     color: rgb(8, 77, 77);
     transition: color 1s;
 }
+
+
+
+.skill-mf span {
+    color: #4e4e4e;
+  }
+  
+  .skill-mf .progress {
+    background-color: #cde1f8;
+    margin: .5rem 0 1.2rem 0;
+    border-radius: 0;
+    height: .7rem;
+  }
+  
+  .skill-mf .progress .progress-bar {
+    height: .7rem;
+    background-color: #0078ff;
+  }
 
