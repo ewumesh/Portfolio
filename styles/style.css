@@ -551,7 +551,7 @@ footer .social-profile li a:hover {
 
 .s-button {
     height: 50px;
-    width: 200px;
+    max-width: 300px;
     background-color: rgb(8, 216, 129);
     border: none;
     font-weight: bold;
