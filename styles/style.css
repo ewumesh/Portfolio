@@ -592,18 +592,18 @@ footer .social-profile li a:hover {
 
 
 
-.skill-mf span {
+.skill span {
     color: #4e4e4e;
   }
   
-  .skill-mf .progress {
+  .skill .progress {
     background-color: #cde1f8;
     margin: .5rem 0 1.2rem 0;
     border-radius: 0;
     height: .7rem;
   }
   
-  .skill-mf .progress .progress-bar {
+  .skill .progress .progress-bar {
     height: .7rem;
     background-color: #0078ff;
   }
