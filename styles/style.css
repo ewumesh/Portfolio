@@ -496,7 +496,7 @@ footer .social-profile li a:hover {
 }
 
 .col {
-    width: 100%;
+    min-width: 100%;
 }
 
 .col-3 {
@@ -522,6 +522,12 @@ footer .social-profile li a:hover {
     width: 50%;
     float: right;
     padding: 20px 0;
+}
+
+.col-b {
+    text-align: center;
+    width: 100%;
+    padding: 10px, 20px;
 }
 
 .discover {
